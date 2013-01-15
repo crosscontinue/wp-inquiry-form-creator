@@ -12,6 +12,5 @@ http://wordpress.org/extend/plugins/inquiry-form-creator/
 http://code.google.com/p/wp-inquiryform/
 
 
-Update: 2012.1.15
-==
-inquiry-short-code copy.php 内の table,th,td 要素を全て dl,dt,dd 要素に置換しました。
+###Update: 2012.1.15
+- inquiry-short-code copy.php 内の table,th,td 要素を全て dl,dt,dd 要素に置換しました。
